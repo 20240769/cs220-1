@@ -8,7 +8,7 @@
 
 /// Adds two unsigned words. If overflow happens, just wrap around.
 pub fn add(lhs: usize, rhs: usize) -> usize {
-    todo!()
+    todo!();
 }
 
 /// Subtracts two unsigned words. If overflow happens, just wrap around.
